@@ -1,7 +1,5 @@
 # abap-atc-cr-cv-s4hc-tools
 
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP/abap-atc-cr-cv-s4hc-tools)](https://api.reuse.software/info/github.com/SAP/abap-atc-cr-cv-s4hc-tools)
-
 > [!WARNING]  
 > This repository is still in progress.
 
@@ -18,6 +16,8 @@ In case you are the maintainer of a new SAP open source project, these are the s
 - Remove all content in this README above and including the horizontal line ;)
 
 ***
+
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/abap-atc-cr-cv-s4hc-tools)](https://api.reuse.software/info/github.com/SAP/abap-atc-cr-cv-s4hc-tools)
 
 # Our new open source project
 
