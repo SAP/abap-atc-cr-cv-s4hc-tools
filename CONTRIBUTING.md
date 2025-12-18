@@ -10,7 +10,7 @@ Note: This is a living document. Like the code, this document will be improved o
 
 All members of the project community must abide by the [SAP Open Source Code of Conduct](https://github.com/SAP/.github/blob/main/CODE_OF_CONDUCT.md).
 Only by respecting each other we can develop a productive, collaborative community.
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting [https://github.com/orgs/SAP/teams/abap-atc-cr-cv-s4hc-admin](REUSE.toml).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting [abap-atc-cr-cv-s4hc-admin](https://github.com/orgs/SAP/teams/abap-atc-cr-cv-s4hc-admin).
 
 ## Engaging in Our Project
 
