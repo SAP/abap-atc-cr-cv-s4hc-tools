@@ -26,3 +26,5 @@ We as members, contributors, and leaders pledge to make participation in our com
 ## Licensing
 
 Copyright 2020-2035 SAP SE or an SAP affiliate company and abap-atc-cr-cv-s4hc-tools contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/abap-atc-cr-cv-s4hc-tools).
+
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/abap-atc-cr-cv-s4hc-tools)](https://api.reuse.software/info/github.com/SAP/abap-atc-cr-cv-s4hc-tools)
