@@ -4,9 +4,13 @@
 
 This repository contains open-source ABAP tools related to the cloudification repostiory and for the clean core journey.
 
-## Available Tools
+### Available Tools
 
 - **Exemption Migration Tool**: An ABAP program, that migrates existing exemptions for the ABAP Cloud Readiness check to the new Clean Core checks ([documenation](docs/cloud-readiness-migration.md)).
+
+## Requirements and Setup
+- **Exemption Migration Tool**: Refer to [`docs/cloud-readiness-migration.md`](docs/cloud-readiness-migration.md#Requirements)
+
 
 ## Support, Feedback, Contributing
 
